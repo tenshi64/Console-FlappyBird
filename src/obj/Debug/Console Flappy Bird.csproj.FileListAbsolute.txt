@@ -1,0 +1,16 @@
+C:\Users\User\Documents\Console Flappy Bird\Console Flappy Bird\obj\Debug\Console Flappy Bird.csproj.AssemblyReference.cache
+C:\Users\User\Documents\Console Flappy Bird\Console Flappy Bird\obj\Debug\Console Flappy Bird.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Console Flappy Bird\Console Flappy Bird\bin\Debug\Console Flappy Bird.exe.config
+C:\Users\User\Documents\Console Flappy Bird\Console Flappy Bird\bin\Debug\Console Flappy Bird.exe
+C:\Users\User\Documents\Console Flappy Bird\Console Flappy Bird\bin\Debug\Console Flappy Bird.pdb
+C:\Users\User\Documents\Console Flappy Bird\Console Flappy Bird\obj\Debug\Console Flappy Bird.exe
+C:\Users\User\Documents\Console Flappy Bird\Console Flappy Bird\obj\Debug\Console Flappy Bird.pdb
+C:\Users\User\Documents\Console Flappy Bird\Console Flappy Bird\obj\Debug\Console Flappy Bird.csproj.SuggestedBindingRedirects.cache
+C:\Users\Michael\Documents\Console Flappy Bird\Console Flappy Bird\bin\Debug\Console Flappy Bird.exe.config
+C:\Users\Michael\Documents\Console Flappy Bird\Console Flappy Bird\bin\Debug\Console Flappy Bird.exe
+C:\Users\Michael\Documents\Console Flappy Bird\Console Flappy Bird\bin\Debug\Console Flappy Bird.pdb
+C:\Users\Michael\Documents\Console Flappy Bird\Console Flappy Bird\obj\Debug\Console Flappy Bird.csproj.AssemblyReference.cache
+C:\Users\Michael\Documents\Console Flappy Bird\Console Flappy Bird\obj\Debug\Console Flappy Bird.csproj.SuggestedBindingRedirects.cache
+C:\Users\Michael\Documents\Console Flappy Bird\Console Flappy Bird\obj\Debug\Console Flappy Bird.csproj.CoreCompileInputs.cache
+C:\Users\Michael\Documents\Console Flappy Bird\Console Flappy Bird\obj\Debug\Console Flappy Bird.exe
+C:\Users\Michael\Documents\Console Flappy Bird\Console Flappy Bird\obj\Debug\Console Flappy Bird.pdb
