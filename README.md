@@ -1,5 +1,5 @@
 # Console-Flappy-Bird
-Flappy Bird game made as a console app.
+FlappyBird game made as a console app.
 
 ## Controls
 Press space to fly.
